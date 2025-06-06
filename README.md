@@ -29,4 +29,5 @@ Tampilan dan Navigasi:
 3. Tampilan New Activity : tampilan yang digunakan oleh user untuk mengisi Journey Activity dengan aktivitas-aktivitas yang telah dilakukan.
 4. Tampilan Edit Journey : tampilan yang digunakan untuk membuat sebuah edit dari journey yang sudah dipost, sehingga jika ada kesalahan bisa diperbaiki.
 5. Tampilan Media : Tampilan yang digunakan untuk ngepost sebuah gambar yang terkait dengan aktivitas yang sudah dilakukan. Contohnya jika melakukan rock climbing bisa melakukan foto tebing. 
-6. Tampilan Atlas : tampilan yang digunakan untuk melihat lokasi-lokasi dimana sebuah user telah melakukan sebuah aktivitas. 
+6. Tampilan Atlas : tampilan yang digunakan untuk melihat lokasi-lokasi dimana sebuah user telah melakukan sebuah aktivitas.
+7. Tampilan Account Details : Tampilan yang digunakan untuk melihat detail dari akun. 
