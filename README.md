@@ -14,7 +14,6 @@ pemrogramman Kotlin. Aplikasi ini dirancang untuk memberikan pengalaman menulis 
 Tujuan dari pengembangan aplikasi Zaibatsu’s Jurnal adalah untuk menyediakan sebuah platform catatan harian pribadi yang sederhana, intuitif, dan fungsional bagi pengguna perangkat Android.
 
 Aplikasi ini dirancang untuk:
-
 • Memudahkan pengguna dalam mencatat aktivitas harian, pikiran, dan perasaan mereka kapan saja dan di mana saja.
 
 • Memberikan pengalaman menulis jurnal yang nyaman melalui antarmuka pengguna yang bersih dan responsif berkat pemanfaatan Jetpack Compose.
