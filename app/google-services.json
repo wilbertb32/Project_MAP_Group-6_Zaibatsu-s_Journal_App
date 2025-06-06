@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935791756196",
+    "project_id": "projectuasmap",
+    "storage_bucket": "projectuasmap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935791756196:android:4da44e4fbfad5defe6b731",
+        "android_client_info": {
+          "package_name": "ac.id.umn.projectutsmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eVLmjGSOYDLEIy4zOMk0zIXfr2PzDFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
