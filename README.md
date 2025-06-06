@@ -31,3 +31,4 @@ Tampilan dan Navigasi:
 5. Tampilan Media : Tampilan yang digunakan untuk ngepost sebuah gambar yang terkait dengan aktivitas yang sudah dilakukan. Contohnya jika melakukan rock climbing bisa melakukan foto tebing. 
 6. Tampilan Atlas : tampilan yang digunakan untuk melihat lokasi-lokasi dimana sebuah user telah melakukan sebuah aktivitas.
 7. Tampilan Account Details : Tampilan yang digunakan untuk melihat detail dari akun. 
+8. Tampilan Entry Detail : Tampilan yang menunjukkan isi detail dari jurnal yang dibuat.
