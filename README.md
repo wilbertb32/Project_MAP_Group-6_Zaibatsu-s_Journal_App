@@ -7,11 +7,13 @@ Member Group 6 :
 4. Arking Luis Davidson (00000082483)
 
 Deskripsi Aplikasi:
+
 Zaibatsu’s Jurnal adalah sebuah aplikasi catatan harian pribadi berbasis Android yang dikembangkan menggunakan Jetpack Compose memakai software Android Studio dengan bahasa
 pemrogramman Kotlin. Aplikasi ini dirancang untuk memberikan pengalaman menulis jurnal yang sederhana namun fungsional, memungkinkan pengguna untuk mencatat aktivitas harian, pikiran, dan perasaan mereka dengan mudah.
 
 Tujuan dari pengembangan aplikasi Zaibatsu’s Jurnal adalah untuk menyediakan sebuah platform catatan harian pribadi yang sederhana, intuitif, dan fungsional bagi pengguna perangkat Android.
 Aplikasi ini dirancang untuk:
+
 • Memudahkan pengguna dalam mencatat aktivitas harian, pikiran, dan perasaan mereka kapan saja dan di mana saja.
 • Memberikan pengalaman menulis jurnal yang nyaman melalui antarmuka pengguna yang bersih dan responsif berkat pemanfaatan Jetpack Compose.
 • Mendorong kebiasaan positif dalam mengekspresikan diri dan merefleksikan kehidupan sehari-hari melalui catatan pribadi.
